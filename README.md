@@ -1,5 +1,5 @@
 ## Meu nome é Sarah Viotto
-
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhNTQweGR6NzNscDg4ZzRsZDRlNGZ6NG93amZmMTQzenUydmFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bBsLmHGPrZKN2/giphy.gif)
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
